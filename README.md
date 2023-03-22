@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" height="200"/>
+</div>
+
+<div align="center">
+  Hi there! I'm <strong>Sofia</strong>
+</div>
+
+<div align="center">
+  Junior Full Stack Web Developer
+</div>
 
 <!--
 **Sofia-Citrini/Sofia-Citrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
